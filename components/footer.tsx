@@ -72,8 +72,7 @@ export function Footer() {
               </div>
 
               <p className="text-gray-400 mb-6 max-w-sm leading-relaxed">
-                Building the future of waitlist management. Join thousands of others waiting for early access to our
-                revolutionary platform.
+              Empowering your job search with AI-driven resumes, interviews, and personalized job matches.
               </p>
 
               {/* Social Links */}

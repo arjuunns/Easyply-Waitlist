@@ -476,7 +476,7 @@ export default function WaitlistPage() {
                   viewport={{ once: true }}
                 >
                   <TextGenerateEffect 
-                    words="Everything you need to know about the Wait template. Find answers to the most common questions below."
+                    words="Everything you need to know about Easyply. Find answers to the most common questions below."
                   />
                 </motion.div>
               </motion.div>
